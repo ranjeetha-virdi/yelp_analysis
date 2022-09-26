@@ -161,10 +161,11 @@ to understand what should a good business actually have.
       ![image](https://user-images.githubusercontent.com/81987445/192224853-22a0fc86-329d-46d6-8fd1-60e8db59e482.png)
     
       (b) What do People want from specifically a Coffee Business
-     
+      ![image](https://user-images.githubusercontent.com/81987445/192258957-e7305fdb-e45c-4324-907f-e963ed9d2cfe.png) 
+
     
       (c) What is the best about Starbucks: The Best in the Coffee Business.
-      ![image](https://user-images.githubusercontent.com/81987445/192254484-f5377158-722a-4de1-b6c5-5b2f7922a220.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192259001-9ca3d990-9e9b-4abc-9899-814ddd627454.png)
 
     
     
