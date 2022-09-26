@@ -86,19 +86,25 @@ and entering and the level of competition they will face:
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
    # (a)  Where are all the best Restaurants located? 
    The best restaurants are located in big cities
+   Which are the best Restaurants on the basis of review counts and Star rating.
+   ![image](https://user-images.githubusercontent.com/81987445/192228282-2dcd4eaa-a436-4a78-b9bf-d25887c6aa60.png)
+
    
    
-   ![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
+   City-wise and State-wise distribution of Restaurants!
+   
+   
+
    
    # (b)  Where are all the best Coffee Places located? 
    The best Coffee Places are located in big cities
-   ![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
+  
    
    City-wise distribution of best Coffee Places
-   ![image](https://user-images.githubusercontent.com/81987445/192221275-c6166314-9bc7-4db5-89d0-d76c93eaf26d.png)
-6.  City-wise and State-wise distribution of Restaurants!
-   ![image](https://user-images.githubusercontent.com/81987445/192221479-b47ae6c0-c7ed-4bde-ad3c-78fdb3036c1b.png)
-   ![image](https://user-images.githubusercontent.com/81987445/192221586-636382c4-17cd-4ca0-aa44-4efff4d24ca0.png)
+   
+6. 
+
+  
 
 7.  	I tried to analyze my data to gauage how much importance my client should give to Affordability, check the data to get insights how much shall the price be a key factor guiding customer decisions. I got very good insights into these aspects. I have divided the restaurants on the basis of the prices they offer into the following four price categories:
       (a) pricing under 20 $ 
