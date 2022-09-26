@@ -86,19 +86,18 @@ and entering and the level of competition they will face:
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
    # (a)  Where are all the best Restaurants located? 
    The best restaurants are located in big cities
-   The best Restaurants on the basis of review counts and Star rating.
-   ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
+   
+         (i)  The best Restaurants on the basis of review counts and Star rating.
+         ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
 
 
    
    
-   City-wise and State-wise distribution of Restaurants!
-   
-   
-   ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
+        (ii)  City-wise distribution of Restaurants
+        ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
 
-
-   ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
+        (iii) State-wise distribution of Restaurants
+        ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
 
    # (b)  Where are all the best Coffee Places located? 
    The best Coffee Places are located in big cities
