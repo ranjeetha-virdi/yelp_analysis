@@ -44,11 +44,6 @@ and entering and the level of competition they will face:
 ![distr](https://user-images.githubusercontent.com/81987445/192219489-51985449-49e9-4470-9675-102e42de63d5.jpg)
 
 
-
-
-
-
-
 2.	My client being Coffee King, lets analyze what is the share of Coffee & Tea business in the entire Restaurants Business. As we can see there only very few Coffee & Tea business as compared to Restaurants Business.
 
 ![coffee_tea](https://user-images.githubusercontent.com/81987445/192219582-6029d4a0-c16b-4282-8bf2-6ce66cdef057.jpg)
@@ -56,15 +51,9 @@ and entering and the level of competition they will face:
  
 3.	One of my hypotheses was that if the Restaurants are liked on the basis of category they belong to; is it dependent on food they serve (Cuisine), I could see from the dataset that people clearly loved Italian food more and one more surprising thing that I could discovered a very surprising aspect that the Coffee & Tea Business were affiliated with American Food and not with Italian in USA.
 
-
-
 ![cuisine](https://user-images.githubusercontent.com/81987445/192219649-31be693e-e2f4-4f27-8812-bc56bb88a564.jpg)
 
-
-
-
 ![cuisine_coffee](https://user-images.githubusercontent.com/81987445/192219665-0232c8de-d128-4d41-a6be-3684b53e9d41.jpg)
-
 
 4.	Are Amenities like parking, ambience etc. they provide detrimental in attracting more people. 
     (a) I have tried to analyze the distribution of various amenities(attributes), like acceptance of credit cards, Wi-Fi, Price, outdoor seating, drive-thru, ambience,            parking, restaurants that are children friendly etc. of various restaurants.
@@ -95,12 +84,14 @@ and entering and the level of competition they will face:
      (f) All of them have take out facility
    
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
-   (a)  Where are all the best Restaurants located? 
+   # (a)  Where are all the best Restaurants located? 
    The best restaurants are located in big cities
+   
+   
    ![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
    
-   (b)  Where are all the best Coffee Places located? 
-   The best Coffee Places
+   # (b)  Where are all the best Coffee Places located? 
+   The best Coffee Places are located in big cities
    ![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
    
    City-wise distribution of best Coffee Places
