@@ -41,73 +41,74 @@ and entering and the level of competition they will face:
 
 
 
-![distr](https://user-images.githubusercontent.com/81987445/192219489-51985449-49e9-4470-9675-102e42de63d5.jpg)
+      ![distr](https://user-images.githubusercontent.com/81987445/192219489-51985449-49e9-4470-9675-102e42de63d5.jpg)
 
 
 2.	My client being Coffee King, lets analyze what is the share of Coffee & Tea business in the entire Restaurants Business. As we can see there only very few Coffee & Tea business as compared to Restaurants Business.
 
-![coffee_tea](https://user-images.githubusercontent.com/81987445/192219582-6029d4a0-c16b-4282-8bf2-6ce66cdef057.jpg)
+     ![coffee_tea](https://user-images.githubusercontent.com/81987445/192219582-6029d4a0-c16b-4282-8bf2-6ce66cdef057.jpg)
 
  
 3.	One of my hypotheses was that if the Restaurants are liked on the basis of category they belong to; is it dependent on food they serve (Cuisine), I could see from the dataset that people clearly loved Italian food more and one more surprising thing that I could discovered a very surprising aspect that the Coffee & Tea Business were affiliated with American Food and not with Italian in USA.
 
-![cuisine](https://user-images.githubusercontent.com/81987445/192219649-31be693e-e2f4-4f27-8812-bc56bb88a564.jpg)
+    ![cuisine](https://user-images.githubusercontent.com/81987445/192219649-31be693e-e2f4-4f27-8812-bc56bb88a564.jpg)
 
-![cuisine_coffee](https://user-images.githubusercontent.com/81987445/192219665-0232c8de-d128-4d41-a6be-3684b53e9d41.jpg)
+    ![cuisine_coffee](https://user-images.githubusercontent.com/81987445/192219665-0232c8de-d128-4d41-a6be-3684b53e9d41.jpg)
 
 4.	Are Amenities like parking, ambience etc. they provide detrimental in attracting more people. 
-    (a) I have tried to analyze the distribution of various amenities(attributes), like acceptance of credit cards, Wi-Fi, Price, outdoor seating, drive-thru, ambience,            parking, restaurants that are children friendly etc. of various restaurants.
+      (a) I have tried to analyze the distribution of various amenities(attributes), like acceptance of credit cards, Wi-Fi, Price, outdoor seating, drive-thru, ambience,            parking, restaurants that are children friendly etc. of various restaurants.
 
 
 
 
 
-      ![very_imp_attributes](https://user-images.githubusercontent.com/81987445/192219702-e6c5c572-e2ef-4923-973e-94d19c413061.jpg)
+         ![very_imp_attributes](https://user-images.githubusercontent.com/81987445/192219702-e6c5c572-e2ef-4923-973e-94d19c413061.jpg)
 
 
  
 
-      ![parking](https://user-images.githubusercontent.com/81987445/192219719-5e5d738d-3dc0-48d3-a8d1-202a38e79fad.jpg)
+        ![parking](https://user-images.githubusercontent.com/81987445/192219719-5e5d738d-3dc0-48d3-a8d1-202a38e79fad.jpg)
 
  
 
-      ![ambience](https://user-images.githubusercontent.com/81987445/192219772-319388ee-078d-46d2-8128-320a0e31b4ab.jpg)
+       ![ambience](https://user-images.githubusercontent.com/81987445/192219772-319388ee-078d-46d2-8128-320a0e31b4ab.jpg)
  
  
-    (b) Plotting the Attributes of the best Coffee Places:
-     ![image](https://user-images.githubusercontent.com/81987445/192226655-f753f6cc-4b91-4f76-94dc-7580fd7467e5.png)
-     (a) Credit cards Acceptance: At almost all top rated places credit card are accepted.
-     (b) Most have Wi-Fi facility.
-     (c) Price range lie in Group 2($ 21-$50).
-     (d) Most have Outdoor Seating Availability.
-     (e) Most don’t have Drive Through.
-     (f) All of them have take out facility
+     (b) Plotting the Attributes of the best Coffee Places:
+           ![image](https://user-images.githubusercontent.com/81987445/192226655-f753f6cc-4b91-4f76-94dc-7580fd7467e5.png)
+           
+     (c) Summary of the attribute:
+         (i) Credit cards Acceptance: At almost all top rated places credit card are accepted.
+         (ii) Most have Wi-Fi facility.
+         (iii) Price range lie in Group 2($ 21-$50).
+         (iv) Most have Outdoor Seating Availability.
+         (v) Most don’t have Drive Through.
+         (vi) All of them have take out facility
    
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
-   # (a)  Where are all the best Restaurants located? 
-   The best restaurants are located in big cities
+   # (a)  Where are all the best Restaurants located? The best restaurants are located in big cities.
+   
    
          (i)  The best Restaurants on the basis of review counts and Star rating.
-         ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
+         
+          ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
 
+         (ii)  City-wise distribution of Restaurants
+         
+          ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
+
+         (iii) State-wise distribution of Restaurants
+         
+          ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
+
+   # (b)  Where are all the best Coffee Places located?   The best Coffee Places are located in big cities
+          (i)  The best Restaurants on the basis of review counts and Star rating.
+          ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
 
    
    
-        (ii)  City-wise distribution of Restaurants
-        ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
-
-        (iii) State-wise distribution of Restaurants
-        ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
-
-   # (b)  Where are all the best Coffee Places located? 
-   The best Coffee Places are located in big cities
-   The best Restaurants on the basis of review counts and Star rating.
-   ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
-
-   
-   
-   City-wise distribution of best Coffee Places
-   ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
+          (ii)  City-wise distribution of best Coffee Places
+          ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
 
 
 
