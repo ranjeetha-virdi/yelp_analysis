@@ -147,7 +147,8 @@ and entering and the level of competition they will face:
       ![image](https://user-images.githubusercontent.com/81987445/192239656-9eccac0b-7271-421b-9ec0-b5bb0ca53a1e.png)
       
       (e) I have tried to understand the distribution of funny,cool,useful reviews and find out the restaurants with most of these reviews.
-      
+      ![image](https://user-images.githubusercontent.com/81987445/192257729-e84d67cb-0d18-40fe-9b47-2b083bd1ce6f.png)
+
       
   
 
@@ -160,10 +161,11 @@ to understand what should a good business actually have.
       ![image](https://user-images.githubusercontent.com/81987445/192224853-22a0fc86-329d-46d6-8fd1-60e8db59e482.png)
     
       (b) What do People want from specifically a Coffee Business
-      ![image](https://user-images.githubusercontent.com/81987445/192225025-3e0b699e-2a65-4874-ad1d-92adce7812ec.png)
+     
     
       (c) What is the best about Starbucks: The Best in the Coffee Business.
-      ![image](https://user-images.githubusercontent.com/81987445/192225177-cd76bcbd-e207-41dc-9af4-21a5b9ad768f.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192254484-f5377158-722a-4de1-b6c5-5b2f7922a220.png)
+
     
     
 9. Summary of Sentiment Analysis:
