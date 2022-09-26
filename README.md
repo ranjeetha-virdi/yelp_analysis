@@ -146,7 +146,8 @@ and entering and the level of competition they will face:
   
       (d) Longer Reviews tends to be useful!
   
-      ![image](https://user-images.githubusercontent.com/81987445/192224353-254bb141-8c4e-4eff-a048-bad5b2bcb7fc.png)
+  ![image](https://user-images.githubusercontent.com/81987445/192239656-9eccac0b-7271-421b-9ec0-b5bb0ca53a1e.png)
+
   
   
 8. I tried to carry out indepth analysis of the reviews data and get insights on what people actually like about their favourite restaurants, 
