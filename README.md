@@ -93,67 +93,72 @@ and entering and the level of competition they will face:
          
           ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
 
-         (ii)  City-wise distribution of Restaurants
+        
+        (ii)  City-wise distribution of Restaurants
          
           ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
 
+         
          (iii) State-wise distribution of Restaurants
          
           ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
 
    # (b)  Where are all the best Coffee Places located?   The best Coffee Places are located in big cities
           (i)  The best Restaurants on the basis of review counts and Star rating.
+          
           ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
 
    
    
           (ii)  City-wise distribution of best Coffee Places
+          
           ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
 
 
 
   
 
-6.  	I tried to analyze my data to gauage how much importance my client should give to Affordability, check the data to get insights how much shall the price be a key factor guiding customer decisions. I got very good insights into these aspects. I have divided the restaurants on the basis of the prices they offer into the following four price categories:
+6.  	I tried to analyze my data to gauage how much importance my client should give to Affordability, check the data to get insights how much shall the price be a key factor guiding customer decisions. 
+      (a)   I got very good insights into these aspects. I have divided the restaurants on the basis of the prices they offer into the following four price categories:
       (a) pricing under 20 $ 
       (b) pricing between 21 $  & 50 $
       (c) pricing between 51 $  & 80 $
       (d) pricing above 80 $
  
-  ![price_distr](https://user-images.githubusercontent.com/81987445/192221812-b6f43851-98f5-4804-a48d-b264f4cba0b5.jpg)
+       ![price_distr](https://user-images.githubusercontent.com/81987445/192221812-b6f43851-98f5-4804-a48d-b264f4cba0b5.jpg)
   
-  I have also plotted a pair plot to see how the review counts and star ratings are distributed amoung these categories: 
+      (b)   I have also plotted a pair plot to see how the review counts and star ratings are distributed amoung these categories: 
   
-  ![image](https://user-images.githubusercontent.com/81987445/192223533-aabd15aa-8f78-4a05-90b2-2e8f8edca046.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192223533-aabd15aa-8f78-4a05-90b2-2e8f8edca046.png)
   
 7. I also tried to find Correlation and Regression between the different features of the data set!
 
-  (a) Star Rating Vs Review Count :Weak Correlation with R² value of 0.12
-  ![image](https://user-images.githubusercontent.com/81987445/192227489-2289f27f-7862-48e1-a1c4-b17e3c5b7bcb.png)
+      (a) Star Rating Vs Review Count :Weak Correlation with R² value of 0.12
+      ![image](https://user-images.githubusercontent.com/81987445/192227489-2289f27f-7862-48e1-a1c4-b17e3c5b7bcb.png)
 
   
-  (b) Correlation Matrix of Star Rating, Review Count, Price
-  ![image](https://user-images.githubusercontent.com/81987445/192227553-ed42327c-4bed-4076-8abf-80dfdecc9efb.png)
+      (b) Correlation Matrix of Star Rating, Review Count, Price
+      ![image](https://user-images.githubusercontent.com/81987445/192227553-ed42327c-4bed-4076-8abf-80dfdecc9efb.png)
   
-  (c) Correlation between Stars and the length of the Review
-  ![image](https://user-images.githubusercontent.com/81987445/192224287-4f0041bb-b507-4455-aec6-0a34bf28c0c6.png)
+      (c) Correlation between Stars and the length of the Review
+      ![image](https://user-images.githubusercontent.com/81987445/192224287-4f0041bb-b507-4455-aec6-0a34bf28c0c6.png)
   
-  (d) Longer Reviews tends to be useful!
+      (d) Longer Reviews tends to be useful!
   
-  ![image](https://user-images.githubusercontent.com/81987445/192224353-254bb141-8c4e-4eff-a048-bad5b2bcb7fc.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192224353-254bb141-8c4e-4eff-a048-bad5b2bcb7fc.png)
   
   
 8. I tried to carry out indepth analysis of the reviews data and get insights on what people actually like about their favourite restaurants, 
 to understand what should a good business actually have.
-    (a) What do People want?
+      (a) What do People want?
 
-    ![image](https://user-images.githubusercontent.com/81987445/192224853-22a0fc86-329d-46d6-8fd1-60e8db59e482.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192224853-22a0fc86-329d-46d6-8fd1-60e8db59e482.png)
     
-    (b) What do People want from specifically a Coffee Business
-    ![image](https://user-images.githubusercontent.com/81987445/192225025-3e0b699e-2a65-4874-ad1d-92adce7812ec.png)
+      (b) What do People want from specifically a Coffee Business
+      ![image](https://user-images.githubusercontent.com/81987445/192225025-3e0b699e-2a65-4874-ad1d-92adce7812ec.png)
     
-    (c) What is the best about Starbucks: The Best in the Coffee Business.
-    ![image](https://user-images.githubusercontent.com/81987445/192225177-cd76bcbd-e207-41dc-9af4-21a5b9ad768f.png)
+      (c) What is the best about Starbucks: The Best in the Coffee Business.
+      ![image](https://user-images.githubusercontent.com/81987445/192225177-cd76bcbd-e207-41dc-9af4-21a5b9ad768f.png)
     
     
 9. Summary of Sentiment Analysis:
