@@ -85,21 +85,22 @@ and entering and the level of competition they will face:
       ![ambience](https://user-images.githubusercontent.com/81987445/192219772-319388ee-078d-46d2-8128-320a0e31b4ab.jpg)
  
  
-    (b) Plotting the Attributes of the best Coffee Places
-    ![image](https://user-images.githubusercontent.com/81987445/192219890-803c340f-03c5-4856-b28c-501f36347375.png)
-
-
+    (b) Plotting the Attributes of the best Coffee Places:
+     ![image](https://user-images.githubusercontent.com/81987445/192226655-f753f6cc-4b91-4f76-94dc-7580fd7467e5.png)
+     (a) Credit cards Acceptance: At almost all top rated places credit card are accepted.
+     (b) Most have Wi-Fi facility.
+     (c) Price range lie in Group 2($ 21-$50).
+     (d) Most have Outdoor Seating Availability.
+     (e) Most don’t have Drive Through.
+     (f) All of them have take out facility
+   
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
    (a)  Where are all the best Restaurants located? 
-   The best restaurants are located in big cities
-
-   ![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
+   The best restaurants are located in big cities![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
    
    (b)  Where are all the best Coffee Places located? 
    
-   The best Coffee Places
-   
-   ![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
+   The best Coffee Places![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
    
    City-wise distribution of best Coffee Places
    
