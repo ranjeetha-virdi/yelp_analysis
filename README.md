@@ -86,25 +86,16 @@ and entering and the level of competition they will face:
          (vi) All of them have take out facility
    
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
-   # (a)  Where are all the best Restaurants located? The best restaurants are located in big cities.
-        The best Restaurants on the basis of review counts and Star rating.
+   # (a)  Where are all the best Restaurants located? 
+      The best restaurants are located in big cities.I tried to plot the best Restaurants on the basis of review counts and Star rating.
+      Also tried to analyze the City-wise and State-wise distribution of Restaurants. 
        ![image](https://user-images.githubusercontent.com/81987445/192237051-975623cc-2dfb-45da-8a4b-d5a78a705d39.png)
          
          
-          
+       ![cities](https://user-images.githubusercontent.com/81987445/192237404-b601d437-6218-4a80-a007-da2d96c4c8df.jpg)
 
 
-        
-       City-wise distribution of Restaurants
-       
-         
-      ![cities](https://user-images.githubusercontent.com/81987445/192237404-b601d437-6218-4a80-a007-da2d96c4c8df.jpg)
-
-
-         
-         (iii) State-wise distribution of Restaurants
-         
-          ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
+       ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
 
    # (b)  Where are all the best Coffee Places located?   The best Coffee Places are located in big cities
           (i)  The best Restaurants on the basis of review counts and Star rating.
