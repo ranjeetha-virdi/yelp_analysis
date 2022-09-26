@@ -98,9 +98,13 @@ and entering and the level of competition they will face:
    
    # (b)  Where are all the best Coffee Places located? 
    The best Coffee Places are located in big cities
-  
+   ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
+
+   
    
    City-wise distribution of best Coffee Places
+   ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
+
    
 6. 
 
@@ -157,36 +161,3 @@ to understand what should a good business actually have.
     (e) Experience
     (f) Cusine
    
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
