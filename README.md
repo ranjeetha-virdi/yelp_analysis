@@ -86,18 +86,23 @@ and entering and the level of competition they will face:
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
    # (a)  Where are all the best Restaurants located? 
    The best restaurants are located in big cities
-   Which are the best Restaurants on the basis of review counts and Star rating.
-   ![image](https://user-images.githubusercontent.com/81987445/192228282-2dcd4eaa-a436-4a78-b9bf-d25887c6aa60.png)
+   The best Restaurants on the basis of review counts and Star rating.
+   ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
+
 
    
    
    City-wise and State-wise distribution of Restaurants!
    
    
+   ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
 
-   
+
+   ![states](https://user-images.githubusercontent.com/81987445/192233724-6e7b2325-2918-4ede-85f9-fbee9458ed99.jpg)
+
    # (b)  Where are all the best Coffee Places located? 
    The best Coffee Places are located in big cities
+   The best Restaurants on the basis of review counts and Star rating.
    ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
 
    
@@ -105,12 +110,11 @@ and entering and the level of competition they will face:
    City-wise distribution of best Coffee Places
    ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
 
-   
-6. 
+
 
   
 
-7.  	I tried to analyze my data to gauage how much importance my client should give to Affordability, check the data to get insights how much shall the price be a key factor guiding customer decisions. I got very good insights into these aspects. I have divided the restaurants on the basis of the prices they offer into the following four price categories:
+6.  	I tried to analyze my data to gauage how much importance my client should give to Affordability, check the data to get insights how much shall the price be a key factor guiding customer decisions. I got very good insights into these aspects. I have divided the restaurants on the basis of the prices they offer into the following four price categories:
       (a) pricing under 20 $ 
       (b) pricing between 21 $  & 50 $
       (c) pricing between 51 $  & 80 $
@@ -122,7 +126,7 @@ and entering and the level of competition they will face:
   
   ![image](https://user-images.githubusercontent.com/81987445/192223533-aabd15aa-8f78-4a05-90b2-2e8f8edca046.png)
   
-8. I also tried to find Correlation and Regression between the different features of the data set!
+7. I also tried to find Correlation and Regression between the different features of the data set!
 
   (a) Star Rating Vs Review Count :Weak Correlation with R² value of 0.12
   ![image](https://user-images.githubusercontent.com/81987445/192227489-2289f27f-7862-48e1-a1c4-b17e3c5b7bcb.png)
@@ -139,7 +143,7 @@ and entering and the level of competition they will face:
   ![image](https://user-images.githubusercontent.com/81987445/192224353-254bb141-8c4e-4eff-a048-bad5b2bcb7fc.png)
   
   
-9. I tried to carry out indepth analysis of the reviews data and get insights on what people actually like about their favourite restaurants, 
+8. I tried to carry out indepth analysis of the reviews data and get insights on what people actually like about their favourite restaurants, 
 to understand what should a good business actually have.
     (a) What do People want?
 
@@ -152,7 +156,7 @@ to understand what should a good business actually have.
     ![image](https://user-images.githubusercontent.com/81987445/192225177-cd76bcbd-e207-41dc-9af4-21a5b9ad768f.png)
     
     
-10. Summary of Sentiment Analysis:
+9. Summary of Sentiment Analysis:
     A good Restaurant depends upon its:
     (a) Quality of food & Coffee
     (b) Price
