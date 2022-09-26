@@ -89,17 +89,7 @@ and entering and the level of competition they will face:
    # (a)  Where are all the best Restaurants located? The best restaurants are located in big cities.I tried to plot the best Restaurants on the basis of review counts and Star rating. Also tried to analyze the City-wise and State-wise distribution of Restaurants. 
      
      
-     ![image](https://user-images.githubusercontent.com/81987445/192238592-cca836cb-e052-440e-b68d-ebb09fe2fd8b.png)
-         
-         
-         
-         
-      ![image](https://user-images.githubusercontent.com/81987445/192238641-14515ee4-37b1-4252-9414-89026dd65a70.png)
-
-
-
-
-       ![image](https://user-images.githubusercontent.com/81987445/192238683-88c22a66-2f88-4197-9051-6419002d76bb.png)
+ ![image](https://user-images.githubusercontent.com/81987445/192240047-f15838d7-8658-4583-b3b8-98d01237ee03.png)
 
 
 
