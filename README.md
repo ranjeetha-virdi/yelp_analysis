@@ -125,8 +125,9 @@ and entering and the level of competition they will face:
      
   
       (b)   I have also plotted a pair plot to see how the review counts and star ratings are distributed amoung these categories: 
-  
-      ![image](https://user-images.githubusercontent.com/81987445/192223533-aabd15aa-8f78-4a05-90b2-2e8f8edca046.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192251188-25dcf6f2-fbb7-4162-98f9-8284ae101e70.png)
+
+   
   
 7. I also tried to find Correlation and Regression between the different features of the data set!
 
