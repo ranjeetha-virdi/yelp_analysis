@@ -101,13 +101,14 @@ and entering and the level of competition they will face:
    # (b)  Where are all the best Coffee Places located?   The best Coffee Places are located in big cities
           (i)  The best Restaurants on the basis of review counts and Star rating.
           
-          ![image](https://user-images.githubusercontent.com/81987445/192232374-39e18810-a45b-4e09-bac8-e20887218cc1.png)
+          ![image](https://user-images.githubusercontent.com/81987445/192245405-d74c9c6f-e1fd-4960-8116-98f96738f17a.png)
 
    
    
           (ii)  City-wise distribution of best Coffee Places
           
-          ![image](https://user-images.githubusercontent.com/81987445/192232418-b3546500-264c-421f-9a52-9703066abafc.png)
+          ![image](https://user-images.githubusercontent.com/81987445/192245589-4a9b70bc-31a6-4f64-868c-4daebda02224.png)
+
 
 
 
@@ -119,8 +120,9 @@ and entering and the level of competition they will face:
       (b) pricing between 21 $  & 50 $
       (c) pricing between 51 $  & 80 $
       (d) pricing above 80 $
- 
-       ![price_distr](https://user-images.githubusercontent.com/81987445/192221812-b6f43851-98f5-4804-a48d-b264f4cba0b5.jpg)
+      ![image](https://user-images.githubusercontent.com/81987445/192246654-c4bc49e6-d6cd-4ed9-8cc8-480e06bde451.png)
+
+     
   
       (b)   I have also plotted a pair plot to see how the review counts and star ratings are distributed amoung these categories: 
   
