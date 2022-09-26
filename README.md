@@ -91,12 +91,13 @@ and entering and the level of competition they will face:
    
          (i)  The best Restaurants on the basis of review counts and Star rating.
          
-          ![best_rest](https://user-images.githubusercontent.com/81987445/192233689-4a434082-3a35-446e-ad55-1037c50a74d4.jpg)
+          ![image](https://user-images.githubusercontent.com/81987445/192237051-975623cc-2dfb-45da-8a4b-d5a78a705d39.png)
+
 
         
         (ii)  City-wise distribution of Restaurants
          
-          ![cities](https://user-images.githubusercontent.com/81987445/192233939-0c52c580-71b9-4a44-8b3f-601cee4a98ef.jpg)
+         
 
          
          (iii) State-wise distribution of Restaurants
