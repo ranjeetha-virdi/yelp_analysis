@@ -85,9 +85,8 @@ and entering and the level of competition they will face:
       ![ambience](https://user-images.githubusercontent.com/81987445/192219772-319388ee-078d-46d2-8128-320a0e31b4ab.jpg)
  
  
-    (b) Plotting the Attributes of the best Coffee Places!
-    
-      [image](https://user-images.githubusercontent.com/81987445/192219890-803c340f-03c5-4856-b28c-501f36347375.png)
+    (b) Plotting the Attributes of the best Coffee Places
+    ![image](https://user-images.githubusercontent.com/81987445/192219890-803c340f-03c5-4856-b28c-501f36347375.png)
 
 
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
