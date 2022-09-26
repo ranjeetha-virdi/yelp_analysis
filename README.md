@@ -120,7 +120,8 @@ and entering and the level of competition they will face:
       (b) pricing between 21 $  & 50 $
       (c) pricing between 51 $  & 80 $
       (d) pricing above 80 $
-      ![image](https://user-images.githubusercontent.com/81987445/192246654-c4bc49e6-d6cd-4ed9-8cc8-480e06bde451.png)
+     ![image](https://user-images.githubusercontent.com/81987445/192251479-5f44b879-3d96-4ac6-86be-15b45843e56b.png)
+
 
      
   
