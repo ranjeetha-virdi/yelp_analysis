@@ -170,11 +170,16 @@ to understand what should a good business actually have.
     
     
 9. Summary of Sentiment Analysis:
-    A good Restaurant depends upon its:
+    The secret to running a good Restaurant depends upon its:
     (a) Quality of food & Coffee
+    
     (b) Price
+    
     (c) Location
+    
     (d) Friendliness of Staff
+    
     (e) Experience
-    (f) Cusine
+    
+    (f) Cuisine
    
