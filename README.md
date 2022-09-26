@@ -96,17 +96,16 @@ and entering and the level of competition they will face:
    
 5.	I wanted to analyze the location of restaurants on the basis of their location according to city,state etc to check if the location of a restaurant really matters. How much importance should CoffeeKing give to this aspect. Should they open more outlets in big cities or smaller places.
    (a)  Where are all the best Restaurants located? 
-   The best restaurants are located in big cities![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
+   The best restaurants are located in big cities
+   ![image](https://user-images.githubusercontent.com/81987445/192220806-a88d8cf7-e9e7-48c5-8d76-d230a4e1b00f.png)
    
    (b)  Where are all the best Coffee Places located? 
-   
-   The best Coffee Places![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
+   The best Coffee Places
+   ![image](https://user-images.githubusercontent.com/81987445/192221110-d3c44cc3-1d36-41df-bfb9-17da1e1333de.png)
    
    City-wise distribution of best Coffee Places
-   
    ![image](https://user-images.githubusercontent.com/81987445/192221275-c6166314-9bc7-4db5-89d0-d76c93eaf26d.png)
 6.  City-wise and State-wise distribution of Restaurants!
-   
    ![image](https://user-images.githubusercontent.com/81987445/192221479-b47ae6c0-c7ed-4bde-ad3c-78fdb3036c1b.png)
    ![image](https://user-images.githubusercontent.com/81987445/192221586-636382c4-17cd-4ca0-aa44-4efff4d24ca0.png)
 
@@ -125,10 +124,11 @@ and entering and the level of competition they will face:
 8. I also tried to find Correlation and Regression between the different features of the data set!
 
   (a) Star Rating Vs Review Count :Weak Correlation with R² value of 0.12
-  ![image](https://user-images.githubusercontent.com/81987445/192223941-e75602dc-3473-4e36-b23c-5575a835bbb9.png)
+  ![image](https://user-images.githubusercontent.com/81987445/192227489-2289f27f-7862-48e1-a1c4-b17e3c5b7bcb.png)
+
   
   (b) Correlation Matrix of Star Rating, Review Count, Price
-  ![image](https://user-images.githubusercontent.com/81987445/192224202-8a83caca-ce13-4088-84d4-cf5528bcaa63.png)
+  ![image](https://user-images.githubusercontent.com/81987445/192227553-ed42327c-4bed-4076-8abf-80dfdecc9efb.png)
   
   (c) Correlation between Stars and the length of the Review
   ![image](https://user-images.githubusercontent.com/81987445/192224287-4f0041bb-b507-4455-aec6-0a34bf28c0c6.png)
