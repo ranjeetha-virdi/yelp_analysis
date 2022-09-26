@@ -139,10 +139,7 @@ and entering and the level of competition they will face:
       (b) Correlation Matrix of Star Rating, Review Count, Price
       ![image](https://user-images.githubusercontent.com/81987445/192227553-ed42327c-4bed-4076-8abf-80dfdecc9efb.png)
   
-      (c) Correlation between Stars and the length of the Review
-      ![image](https://user-images.githubusercontent.com/81987445/192224287-4f0041bb-b507-4455-aec6-0a34bf28c0c6.png)
-  
-      (d) Longer Reviews tends to be useful!
+      (c) Correlation between Stars and the length of the Review, indicates longer Reviews tends to be useful!
   
       ![image](https://user-images.githubusercontent.com/81987445/192239656-9eccac0b-7271-421b-9ec0-b5bb0ca53a1e.png)
       
