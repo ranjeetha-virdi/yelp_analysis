@@ -144,7 +144,12 @@ and entering and the level of competition they will face:
   
       (d) Longer Reviews tends to be useful!
   
-  ![image](https://user-images.githubusercontent.com/81987445/192239656-9eccac0b-7271-421b-9ec0-b5bb0ca53a1e.png)
+      ![image](https://user-images.githubusercontent.com/81987445/192239656-9eccac0b-7271-421b-9ec0-b5bb0ca53a1e.png)
+      
+      (e) I have tried to understand the distribution of funny,cool,useful reviews and find out the restaurants with most of these reviews.
+      
+      
+  
 
   
   
